@@ -1,0 +1,27 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hand_Raised",
+      "points": [
+        [
+          561.8589743589744,
+          470.7692307692307
+        ],
+        [
+          618.9102564102564,
+          567.8846153846154
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "frame010.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

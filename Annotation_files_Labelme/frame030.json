@@ -1,0 +1,44 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hand_Raised",
+      "points": [
+        [
+          805.4935622317597,
+          487.9828326180257
+        ],
+        [
+          849.6995708154507,
+          572.5321888412017
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hand_Raised",
+      "points": [
+        [
+          1135.625,
+          480.625
+        ],
+        [
+          1202.5,
+          591.875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "frame030.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}
