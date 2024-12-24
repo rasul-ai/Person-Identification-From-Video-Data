@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Person-Identification-From-Video-Data
-=======
 # Hand Raised Person Detection and Identification on Video
 
 I have used YOLO model from ultralytics to detect Hand Raised person. Initially, I convert the video into frames. Then annotate the frames with Labelme Tool. Then I convert the labelme .json to yolo .txt format. Then did a yolov8 training with colab.
@@ -15,4 +12,3 @@ Before running the script, you need to install the required dependencies. You ca
 
 ```bash
 pip install -r requirements.txt
->>>>>>> d8a2019 (Added Readme file for description)
