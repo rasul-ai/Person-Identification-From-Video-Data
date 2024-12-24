@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Hand/images/train
+test: /content/drive/MyDrive/Hand/images/val
+val: /content/drive/MyDrive/Hand/images/val
+
+nc: 1
+names: ['Hand_Raised']
